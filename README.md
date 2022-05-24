@@ -19,7 +19,7 @@ This repository presents the codes for the proposed physics informed neural netw
     }
 
 ## Acknowledgment
-This research was performed at the [AI for Energy Research Group](https://ugentai4e.github.io/) at [IDLAB, UGent-imec](https://www.ugent.be/ea/idlab/en). Part of this research has received funding from the European Union's Horizon 2020 research and innovation programme for the projects [BRIGHT](https://www.brightproject.eu/), [RENergetic](https://www.renergetic.eu/) and [BIGG](https://www.bigg-project.eu/).
+This research was performed at the [AI for Energy Research Group](https://ugentai4e.github.io/) at [IDLAB, UGent-imec](https://www.ugent.be/ea/idlab/en). Part of the research leading to these results has received funding from Agentschap Innoveren and Ondernemen (VLAIO) as part of the Strategic Basic Research (SBO) program under the InduFlexControl project and the European Union's Horizon 2020 research and innovation programme for the projects [BRIGHT](https://www.brightproject.eu/) and [BIGG](https://www.bigg-project.eu/).
 
 ## Contact
 If you have any questions, please contact me at manu.lahariya@ugent.be
